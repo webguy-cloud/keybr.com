@@ -1,7 +1,7 @@
 {
   "version": 2,
   "cleanUrls": true,
-  "outputDirectory": "public",
+  "outputDirectory": "packages/webapp/public",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
